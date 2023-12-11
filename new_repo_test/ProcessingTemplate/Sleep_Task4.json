@@ -2,7 +2,7 @@
   "highRiskStatisticMethod": "PERCENT",
   "highRiskStatisticPeriod": "WEEK",
   "highRiskThreshold": 5,
-  "node": "Jabee",
+  "node": "Jabee_Linux",
   "owner": "jabee.cosme@infinitedata.com",
   "priority": "0",
   "processingType": "TASK",
