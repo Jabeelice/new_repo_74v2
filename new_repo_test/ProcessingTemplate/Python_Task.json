@@ -11,6 +11,6 @@
   "statisticPeriod": "MONTH",
   "taskType": "PYTHON",
   "processingCommand": {
-    "script": "print \"Hello World\""
+    "script": "print \"Hello InfiniteDATA\""
   }
 }
