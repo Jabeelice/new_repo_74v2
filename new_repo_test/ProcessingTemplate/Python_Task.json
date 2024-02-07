@@ -1,0 +1,16 @@
+{
+  "highRiskStatisticMethod": "PERCENT",
+  "highRiskStatisticPeriod": "WEEK",
+  "highRiskThreshold": 5,
+  "node": "Jabee_Linux",
+  "owner": "jabee.cosme@infinitedata.com",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "LINUX",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "taskType": "PYTHON",
+  "processingCommand": {
+    "script": "print \"Hello World\""
+  }
+}
