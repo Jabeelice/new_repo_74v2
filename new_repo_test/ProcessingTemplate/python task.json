@@ -1,0 +1,10 @@
+{
+"node": "AnowEngine.Linux.apf",
+"owner": "dawiener",
+"priority": "0",
+"processingType": "TASK",
+"serverNodeType": "LINUX",
+"taskType": "PYTHON",
+"processingCommand": {
+"script": "print(f'AAA\nBBB')"
+}
