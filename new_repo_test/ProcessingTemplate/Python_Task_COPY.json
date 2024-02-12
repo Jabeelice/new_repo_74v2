@@ -13,6 +13,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "print(f'AAA/nBBB')"
+    "script": "print(f'AAA/nBBB/nCCCC')"
   }
 }
