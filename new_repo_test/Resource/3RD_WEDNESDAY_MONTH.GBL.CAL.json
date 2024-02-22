@@ -1,0 +1,10 @@
+{
+  "calendarType": "AND",
+  "calendars": "WEDNESDAYS.GBL.CAL,3RDWEEK.GBL.CAL",
+  "codeRepository": "[Jabee_Domain]new_repo_74v2",
+  "resourceType": "CALENDAR",
+  "tags": 
+  [
+    "Global"
+  ]
+}
